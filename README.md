@@ -1,16 +1,26 @@
-# appweather
+# 🌱 Plant App UI
 
-A new Flutter project.
+Giao diện ứng dụng di động (Flutter) về ứng dụng dự báo thời tiết cho thành phố
+API sử dụng của apiweather.com
 
-## Getting Started
+## 📱 Demo
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="assets/img/weather/Screenshot 2025-05-26 004931.png" width="200" style="margin: 0 10px;"/>
+  <img src="assets/img/weather/Screenshot 2025-05-26 004939.png" width="200" style="margin: 0 10px;"/>
+  <img src="assets/img/weather/Screenshot 2025-05-26 004947.png" width="200" style="margin: 0 10px;"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Tính năng chính
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Xem dự báo thời tiết cho từng khu vực
+- CÓ thể tìm kiếm
+- Xem sức gió, độ ẩm
+- Dự báo trước 3 ngày
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Công nghệ sử dụng
+
+- Flutter
+- Dart
+- Figma (thiết kế ban đầu)
+- GitHub
